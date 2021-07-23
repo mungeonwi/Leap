@@ -1,0 +1,1034 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.13f1 (71691879b7f5) revision 7432472'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.1083; Version 2004; 64bit' Language: 'ko' Physical Memory: 16202 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.13f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/mgw15/unity/New Unity Project (1)
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54329
+Successfully changed project path to: C:/Users/mgw15/unity/New Unity Project (1)
+C:/Users/mgw15/unity/New Unity Project (1)
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 25.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.13f1 (71691879b7f5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/mgw15/unity/New Unity Project (1)/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 with Max-Q Design (ID=0x1f99)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   27.21.14.6221
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56724
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002781 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 24.94 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.072 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005198 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.834 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1390 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.7 MB.
+System memory in use after: 64.8 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1823.
+Total: 1.834600 ms (FindLiveObjects: 0.120700 ms CreateObjectMapping: 0.030000 ms MarkObjects: 1.576800 ms  DeleteObjects: 0.106300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scenes
+  artifactKey: Guid(80a8a9c8cb8569047ad52836d4e0bf55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(80a8a9c8cb8569047ad52836d4e0bf55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07d8d7e91d326b245a111e5b5e97f4b7') in 0.004351 seconds 
+  Import took 0.005939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.464998 seconds.
+  path: Assets/Plugins
+  artifactKey: Guid(6ace6fdd0a98e2644b4f32029c934e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins using Guid(6ace6fdd0a98e2644b4f32029c934e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18224cc1f10805f5b8690f5b0b1cfb7d') in 0.004103 seconds 
+  Import took 0.006178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.680547 seconds.
+  path: Assets/Plugins/LeapMotion
+  artifactKey: Guid(919e4976da4ec394591a8a5205290b97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion using Guid(919e4976da4ec394591a8a5205290b97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e068faf0f50f4be62de68da25a6b1b03') in 0.003737 seconds 
+  Import took 0.006319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.707680 seconds.
+  path: Assets/Plugins/LeapMotion/Core
+  artifactKey: Guid(3214e19246395fd41a396e62794e5d03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core using Guid(3214e19246395fd41a396e62794e5d03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adc6190c26dc38987ca3580a0d0d8f92') in 0.003954 seconds 
+  Import took 0.006076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.752561 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Examples
+  artifactKey: Guid(f118656a8f830d340bbb2c880e338208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Examples using Guid(f118656a8f830d340bbb2c880e338208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e7bfd472941b73574452d859d302daa') in 0.003765 seconds 
+  Import took 0.006333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.800966 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Examples/Attachment Hands (VR).unity
+  artifactKey: Guid(e136a15ad33ad024d857c80ab2e20ec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Examples/Attachment Hands (VR).unity using Guid(e136a15ad33ad024d857c80ab2e20ec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f018215e09272f90b27545abff0c2f3d') in 0.009390 seconds 
+  Import took 0.011335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.214227 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Examples/Capsule Hands (Desktop).unity
+  artifactKey: Guid(e97e5c56326797c41be5a618cde4727a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Examples/Capsule Hands (Desktop).unity using Guid(e97e5c56326797c41be5a618cde4727a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1695d23c30e7233c559a81a78b97a02f') in 0.004836 seconds 
+  Import took 0.007120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.310635 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Examples/Capsule Hands (Screentop).unity
+  artifactKey: Guid(ae732dbd2347132499e14bd884a9aa3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Examples/Capsule Hands (Screentop).unity using Guid(ae732dbd2347132499e14bd884a9aa3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4ca765eac67a536cfa552caa119e539') in 0.004005 seconds 
+  Import took 0.006199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.425561 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Examples/Capsule Hands (VR - Infrared Viewer).unity
+  artifactKey: Guid(480afe764b344a64688bf3a502bc612a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Examples/Capsule Hands (VR - Infrared Viewer).unity using Guid(480afe764b344a64688bf3a502bc612a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77ea827a4c496e7724ea1cdaac172270') in 0.004504 seconds 
+  Import took 0.006441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.450483 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Examples/Capsule Hands (VR).unity
+  artifactKey: Guid(b8716ea72d45ecc4f9d690226f6664d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Examples/Capsule Hands (VR).unity using Guid(b8716ea72d45ecc4f9d690226f6664d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94990a1a5424322debba91850226cfb8') in 0.004013 seconds 
+  Import took 0.006015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.417422 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Examples/Hand Post-Processes (VR).unity
+  artifactKey: Guid(5cb628934988a6d48bcea04bdb54c78e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Examples/Hand Post-Processes (VR).unity using Guid(5cb628934988a6d48bcea04bdb54c78e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b0fcc1ceed7dd88207d138e2535d650') in 0.003979 seconds 
+  Import took 0.006036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.405106 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Examples/Rigged Hands (VR - Infrared Viewer).unity
+  artifactKey: Guid(d88e9011efa39d24a9c768560b6c9bf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Examples/Rigged Hands (VR - Infrared Viewer).unity using Guid(d88e9011efa39d24a9c768560b6c9bf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '746e9cea03e87878aa4fac15ccc7d682') in 0.003638 seconds 
+  Import took 0.005461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.305830 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Examples/Rigged Hands (VR).unity
+  artifactKey: Guid(af5071277bb494844a54bfccdc5e226f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Examples/Rigged Hands (VR).unity using Guid(af5071277bb494844a54bfccdc5e226f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b5a067cac9bc585187bc0fb17f057c5') in 0.003710 seconds 
+  Import took 0.005795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.455222 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Examples/Example Assets
+  artifactKey: Guid(51a43078984b6484481da10c41989c08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Examples/Example Assets using Guid(51a43078984b6484481da10c41989c08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9e6ead7b9f46f4ea50a65e252f44de4') in 0.003789 seconds 
+  Import took 0.005801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.053624 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Examples/Example Assets/Attachment Hands Example Blue.mat
+  artifactKey: Guid(67b66d4eb50ed684d94eb00bc04709d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Examples/Example Assets/Attachment Hands Example Blue.mat using Guid(67b66d4eb50ed684d94eb00bc04709d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b808ce21bf45c618805ef6c44fa9e4a') in 0.228476 seconds 
+  Import took 0.230352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Examples/Example Assets/Attachment Hands Example Red.mat
+  artifactKey: Guid(113742fcb5ec3254e96c40315b70f248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Examples/Example Assets/Attachment Hands Example Red.mat using Guid(113742fcb5ec3254e96c40315b70f248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cea4e1cc5dd4c503cb4c06b1f2e0054c') in 0.009434 seconds 
+  Import took 0.011250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Examples/Example Assets/Attachment Hands Example Transform Prefab.prefab
+  artifactKey: Guid(1477d75bc13cce74ea026927aa88dd9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Examples/Example Assets/Attachment Hands Example Transform Prefab.prefab using Guid(1477d75bc13cce74ea026927aa88dd9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8cd687f5e38746a2e43235c479e7321') in 0.026599 seconds 
+  Import took 0.028926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Examples/Example Assets/Attachment Hands Example Green.mat
+  artifactKey: Guid(81f6d387b9d5c994d9e291af97c84648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Examples/Example Assets/Attachment Hands Example Green.mat using Guid(81f6d387b9d5c994d9e291af97c84648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f10223c497111ac19d198aa193fa3202') in 0.010069 seconds 
+  Import took 0.011922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Examples/Example Assets/Example Ground Material.mat
+  artifactKey: Guid(c49b4153c4032784bbc659f359b10954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Examples/Example Assets/Example Ground Material.mat using Guid(c49b4153c4032784bbc659f359b10954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3486189e27acf32e622bb834e89e135') in 0.012494 seconds 
+  Import took 0.015190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Examples/Example Assets/Example Ground Object.prefab
+  artifactKey: Guid(d927f226198a4c041848215cdda6fd4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Examples/Example Assets/Example Ground Object.prefab using Guid(d927f226198a4c041848215cdda6fd4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00a52ac1188f01cfd5a02c379b709bc6') in 0.011059 seconds 
+  Import took 0.013308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.006800 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Examples/Example Assets/InertiaPostProcessProvider.cs
+  artifactKey: Guid(fa7eed364e5769a4c8e4dccbc0ee1847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Examples/Example Assets/InertiaPostProcessProvider.cs using Guid(fa7eed364e5769a4c8e4dccbc0ee1847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98dea4d453042a473799963a75a3f581') in 0.004337 seconds 
+  Import took 0.006339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024320 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Examples/Example Assets/InertiaPostProcessProvider.cs
+  artifactKey: Guid(fa7eed364e5769a4c8e4dccbc0ee1847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Examples/Example Assets/InertiaPostProcessProvider.cs using Guid(fa7eed364e5769a4c8e4dccbc0ee1847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98dea4d453042a473799963a75a3f581') in 0.003345 seconds 
+  Import took 0.006059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.618551 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Examples/Example Assets/ProjectionPostProcessProvider.cs
+  artifactKey: Guid(27476d622d49bab41a86b9fff05af58e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Examples/Example Assets/ProjectionPostProcessProvider.cs using Guid(27476d622d49bab41a86b9fff05af58e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4957bddc00bc20e688541b5f3affb40e') in 0.003401 seconds 
+  Import took 0.005349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001649 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Examples/Example Assets/ProjectionPostProcessProvider.cs
+  artifactKey: Guid(27476d622d49bab41a86b9fff05af58e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Examples/Example Assets/ProjectionPostProcessProvider.cs using Guid(27476d622d49bab41a86b9fff05af58e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4957bddc00bc20e688541b5f3affb40e') in 0.002963 seconds 
+  Import took 0.005128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.379318 seconds.
+  path: Assets/Plugins/LeapMotion/Modules
+  artifactKey: Guid(ffca3a1f26186f94e84c0bcbc3ae9fe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules using Guid(ffca3a1f26186f94e84c0bcbc3ae9fe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edb55d5fed618acb19e0db3b38841df3') in 0.003691 seconds 
+  Import took 0.005721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.466876 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine
+  artifactKey: Guid(7637b78fc2d12a142a623373c9064364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine using Guid(7637b78fc2d12a142a623373c9064364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84e265ed4d9486c78b103a0ad6d85495') in 0.003429 seconds 
+  Import took 0.005442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.632161 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples
+  artifactKey: Guid(f84a15fa6aaa36745b35833b3f4e80e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples using Guid(f84a15fa6aaa36745b35833b3f4e80e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da5988ec14542a7e7461be4c21274251') in 0.003460 seconds 
+  Import took 0.005718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.729634 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/2. Basic UI
+  artifactKey: Guid(9736d05b7c12a7c44bfbb8a00150cdb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/2. Basic UI using Guid(9736d05b7c12a7c44bfbb8a00150cdb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29efa5ce87428929aa0a29d53427fb07') in 0.003935 seconds 
+  Import took 0.005976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.386402 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/1. Interaction Objects
+  artifactKey: Guid(700dd32136d05a04a89ab6197d4baea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/1. Interaction Objects using Guid(700dd32136d05a04a89ab6197d4baea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42a0bd5b3e089d3f5c6b810d66d1bc47') in 0.003499 seconds 
+  Import took 0.005804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.732949 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/1. Interaction Objects/Interaction Objects.unity
+  artifactKey: Guid(017ace9491c55584a93fb1551e5b4db9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/1. Interaction Objects/Interaction Objects.unity using Guid(017ace9491c55584a93fb1551e5b4db9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86b56aa5ec452d7cd3ad02a75de06d96') in 0.004828 seconds 
+  Import took 0.006858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.813769 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Prefabs
+  artifactKey: Guid(17e6175ca75690547838f048a27cefb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Prefabs using Guid(17e6175ca75690547838f048a27cefb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ef2beddc2f47ba633ba5280807a6884') in 0.003564 seconds 
+  Import took 0.005613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.060442 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Prefabs/Interaction Manager.prefab
+  artifactKey: Guid(33edf201cbc6fe645ad9078697cd2aea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Prefabs/Interaction Manager.prefab using Guid(33edf201cbc6fe645ad9078697cd2aea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8f146cf8b02a3a5c0b7a2ac75411e31') in 0.013499 seconds 
+  Import took 0.015769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.087267 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Prefabs/Interaction Controllers
+  artifactKey: Guid(a9987a9dabedc2f48852aed366fc6418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Prefabs/Interaction Controllers using Guid(a9987a9dabedc2f48852aed366fc6418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab05b9e4f7171506f1acb17af91a003b') in 0.004103 seconds 
+  Import took 0.006519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.323252 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Prefabs/Interaction Controllers/Interaction Hand (Left).prefab
+  artifactKey: Guid(8b0fa35b4cedcf243b23166070e235ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Prefabs/Interaction Controllers/Interaction Hand (Left).prefab using Guid(8b0fa35b4cedcf243b23166070e235ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12d6404cc64b66b9b6ebfbf349824fe0') in 0.005241 seconds 
+  Import took 0.007322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Prefabs/Interaction Controllers/VR Vive-style Controller (Left).prefab
+  artifactKey: Guid(80e9754fad44e784f97f6c76a2c7255b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Prefabs/Interaction Controllers/VR Vive-style Controller (Left).prefab using Guid(80e9754fad44e784f97f6c76a2c7255b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '807493992a4b07aa7386dd71eefee813') in 0.012780 seconds 
+  Import took 0.014738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Prefabs/Interaction Controllers/VR Oculus-style Controller (Right).prefab
+  artifactKey: Guid(9361ab6d13ee87644bc370bccb524144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Prefabs/Interaction Controllers/VR Oculus-style Controller (Right).prefab using Guid(9361ab6d13ee87644bc370bccb524144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd442092e363f4ab2d93c41004055f7a0') in 0.012293 seconds 
+  Import took 0.014321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Prefabs/Interaction Controllers/VR Vive-style Controller (Right).prefab
+  artifactKey: Guid(72368278d054cda4bb18e5aa08ce971d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Prefabs/Interaction Controllers/VR Vive-style Controller (Right).prefab using Guid(72368278d054cda4bb18e5aa08ce971d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b58925a296bb2d488e77b9d419a9ff26') in 0.011830 seconds 
+  Import took 0.013864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Prefabs/Interaction Controllers/VR Oculus-style Controller (Left).prefab
+  artifactKey: Guid(40e809833d307ef4983e1e71fe56e23b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Prefabs/Interaction Controllers/VR Oculus-style Controller (Left).prefab using Guid(40e809833d307ef4983e1e71fe56e23b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b30d94e4e0045846d65162bc3aea15b8') in 0.011621 seconds 
+  Import took 0.013836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Prefabs/Interaction Controllers/Interaction Hand (Right).prefab
+  artifactKey: Guid(edcc5ee563218a84ab541a00a47ea5c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Prefabs/Interaction Controllers/Interaction Hand (Right).prefab using Guid(edcc5ee563218a84ab541a00a47ea5c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3cdac4fdc4cddda530578f84f25b53b') in 0.005001 seconds 
+  Import took 0.007201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.535702 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Scripts
+  artifactKey: Guid(abf268c55d4142d46bb880460c851414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Scripts using Guid(abf268c55d4142d46bb880460c851414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77e72ac11c264ff8ca6bdaba87f99fbc') in 0.003788 seconds 
+  Import took 0.005978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.872955 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Scripts/Utility
+  artifactKey: Guid(8cfcd7ce46dd3e14697751f4ba4706c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Scripts/Utility using Guid(8cfcd7ce46dd3e14697751f4ba4706c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1da0f5af20783cc70ab703e15fceff47') in 0.003416 seconds 
+  Import took 0.005643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.144764 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Scripts/Utility/ActivityManager.cs
+  artifactKey: Guid(5891d6414b99a0544a15a260aa856043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Scripts/Utility/ActivityManager.cs using Guid(5891d6414b99a0544a15a260aa856043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4bceeeffda9c9db55171d0e9384a97c') in 0.002945 seconds 
+  Import took 0.004822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000777 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Scripts/Utility/ActivityManager.cs
+  artifactKey: Guid(5891d6414b99a0544a15a260aa856043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Scripts/Utility/ActivityManager.cs using Guid(5891d6414b99a0544a15a260aa856043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4bceeeffda9c9db55171d0e9384a97c') in 0.003047 seconds 
+  Import took 0.005157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.606060 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Scripts/Utility/GraspedMovementEvent.cs
+  artifactKey: Guid(fff438a28f79b4649bb58b68728846e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Scripts/Utility/GraspedMovementEvent.cs using Guid(fff438a28f79b4649bb58b68728846e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ae18ea4e44d7d379144e0cbb5f4ebaa') in 0.003253 seconds 
+  Import took 0.005325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000558 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Scripts/Utility/GraspedMovementEvent.cs
+  artifactKey: Guid(fff438a28f79b4649bb58b68728846e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Scripts/Utility/GraspedMovementEvent.cs using Guid(fff438a28f79b4649bb58b68728846e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ae18ea4e44d7d379144e0cbb5f4ebaa') in 0.003057 seconds 
+  Import took 0.005232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.163559 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Scripts/Utility/HideInteractionHandWhenControllerMoving.cs
+  artifactKey: Guid(820cd3c2c5bc5794d9179a4f453271f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Scripts/Utility/HideInteractionHandWhenControllerMoving.cs using Guid(820cd3c2c5bc5794d9179a4f453271f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a43c4fb6c09428c6d1e9c5fc526a9f6a') in 0.003188 seconds 
+  Import took 0.005423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.650649 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Scripts/Utility/IgnoreColliderForInteraction.cs
+  artifactKey: Guid(12d1fa9086c2b174dbc4a5eac2289491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Scripts/Utility/IgnoreColliderForInteraction.cs using Guid(12d1fa9086c2b174dbc4a5eac2289491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd999359db1ab71c5bebc38fa728ffcf7') in 0.003255 seconds 
+  Import took 0.005458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001375 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Scripts/Utility/IgnoreColliderForInteraction.cs
+  artifactKey: Guid(12d1fa9086c2b174dbc4a5eac2289491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Scripts/Utility/IgnoreColliderForInteraction.cs using Guid(12d1fa9086c2b174dbc4a5eac2289491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd999359db1ab71c5bebc38fa728ffcf7') in 0.002769 seconds 
+  Import took 0.004723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.612475 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Scripts/Utility/IgnoreCollisionsInChildren.cs
+  artifactKey: Guid(63f706a66d7747347b05af75d89b00e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Scripts/Utility/IgnoreCollisionsInChildren.cs using Guid(63f706a66d7747347b05af75d89b00e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da7c281005853c2da3a1bfacb8dbe894') in 0.004837 seconds 
+  Import took 0.007214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Scripts/Utility/IgnoreCollisionsInChildren.cs
+  artifactKey: Guid(63f706a66d7747347b05af75d89b00e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Scripts/Utility/IgnoreCollisionsInChildren.cs using Guid(63f706a66d7747347b05af75d89b00e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da7c281005853c2da3a1bfacb8dbe894') in 0.002817 seconds 
+  Import took 0.005112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.211380 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Scripts/Utility/KabschSolver.cs
+  artifactKey: Guid(2b1b494210037e842884bd15f96975b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Scripts/Utility/KabschSolver.cs using Guid(2b1b494210037e842884bd15f96975b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8047ee7358e3a58385384143a88a7960') in 0.002862 seconds 
+  Import took 0.004917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001354 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Scripts/Utility/KabschSolver.cs
+  artifactKey: Guid(2b1b494210037e842884bd15f96975b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Scripts/Utility/KabschSolver.cs using Guid(2b1b494210037e842884bd15f96975b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8047ee7358e3a58385384143a88a7960') in 0.003064 seconds 
+  Import took 0.005039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.355285 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Scripts/Utility/Editor
+  artifactKey: Guid(bfab0080a701e0c4f8a61ba03a05552f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Scripts/Utility/Editor using Guid(bfab0080a701e0c4f8a61ba03a05552f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe09f835e94da737360befe9fe003bf1') in 0.003734 seconds 
+  Import took 0.005956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.609939 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Prefabs/HandModelsNonHuman/Capsule Hand Left.prefab
+  artifactKey: Guid(869d20cdda15af24aab9e72b5f2eec78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Prefabs/HandModelsNonHuman/Capsule Hand Left.prefab using Guid(869d20cdda15af24aab9e72b5f2eec78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4146c058ceb37e48f09ed84c778c1566') in 0.005125 seconds 
+  Import took 0.007228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Prefabs/HandModelsNonHuman/Capsule Hand Right.prefab
+  artifactKey: Guid(39d18871c11b53c4082d8202e3db68a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Prefabs/HandModelsNonHuman/Capsule Hand Right.prefab using Guid(39d18871c11b53c4082d8202e3db68a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7261b94b0bcdd68697a3a3295c6ec098') in 0.004176 seconds 
+  Import took 0.005765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/Hands/Prefabs/CapsuleHands.prefab
+  artifactKey: Guid(8163655ae6e81f149b112acc9972a9d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/Hands/Prefabs/CapsuleHands.prefab using Guid(8163655ae6e81f149b112acc9972a9d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dbf8de10a0bc0ade1c7e41e7d51a242') in 0.005598 seconds 
+  Import took 0.007528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.017129 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Models/LoPoly_Rigged_Hands_Skeleton.fbx
+  artifactKey: Guid(affe8bf845b965a489b693bfe8b9bb11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Models/LoPoly_Rigged_Hands_Skeleton.fbx using Guid(affe8bf845b965a489b693bfe8b9bb11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '646d8afc541bdba0f05b9f4c77c4a265') in 0.056268 seconds 
+  Import took 0.058907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/Hands/Models/Skeleton/Textures/Skeleton Thickness Map.png
+  artifactKey: Guid(3cd88d86ce8505240b9dbd76fb29aeea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/Hands/Models/Skeleton/Textures/Skeleton Thickness Map.png using Guid(3cd88d86ce8505240b9dbd76fb29aeea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f05eeb340c677a7e545946aa8a514e18') in 0.024964 seconds 
+  Import took 0.026770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/Hands/Prefabs/SkeletonHands.prefab
+  artifactKey: Guid(fa1f99719015b5649bec3f061b234469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/Hands/Prefabs/SkeletonHands.prefab using Guid(fa1f99719015b5649bec3f061b234469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ea535de8a50dc7a41947f0cc3668a26') in 0.056042 seconds 
+  Import took 0.058590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/Hands/Models/Skeleton/Textures/Skeleton Arm_phong1_Normal.png
+  artifactKey: Guid(7e65651c415670f4f93f0024bd0c6fa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/Hands/Models/Skeleton/Textures/Skeleton Arm_phong1_Normal.png using Guid(7e65651c415670f4f93f0024bd0c6fa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bc4b3357a84a2fe6906463589cdf434') in 0.022043 seconds 
+  Import took 0.023944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/Hands/Models/Skeleton/SkeletonArm_MeshUnderBones.fbx
+  artifactKey: Guid(371992c1d2372234b968dc6c00d250c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/Hands/Models/Skeleton/SkeletonArm_MeshUnderBones.fbx using Guid(371992c1d2372234b968dc6c00d250c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a1482b6ee69b4f6f515519204750743') in 0.094067 seconds 
+  Import took 0.096331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/Hands/Models/Skeleton/Textures/Skeleton Arm_phong1_AlbedoTransparency.png
+  artifactKey: Guid(d0c20f82e7a2417409bb113fc0ab6bc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/Hands/Models/Skeleton/Textures/Skeleton Arm_phong1_AlbedoTransparency.png using Guid(d0c20f82e7a2417409bb113fc0ab6bc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bfe54fb8fc9460d704ae56add7f7dc9') in 0.009470 seconds 
+  Import took 0.011354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/Hands/Models/Skeleton/Textures/Skeleton Arm_phong1_MetallicSmoothness.png
+  artifactKey: Guid(699a3fa811652de4ebe766a1004d38a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/Hands/Models/Skeleton/Textures/Skeleton Arm_phong1_MetallicSmoothness.png using Guid(699a3fa811652de4ebe766a1004d38a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91ac43367f0663ed48dc0323f244a68c') in 0.011174 seconds 
+  Import took 0.013260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/Hands/Models/Skeleton/SkeletonArm.mat
+  artifactKey: Guid(fc295eba5abda994e8e9dd730218fa31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/Hands/Models/Skeleton/SkeletonArm.mat using Guid(fc295eba5abda994e8e9dd730218fa31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e4db822db143b37ad2d6bf75be308c8') in 0.017805 seconds 
+  Import took 0.020128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.683898 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Scripts/Hands/SkeletalFinger.cs
+  artifactKey: Guid(3f5fcbf058439488b9b1c389e2b23547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Scripts/Hands/SkeletalFinger.cs using Guid(3f5fcbf058439488b9b1c389e2b23547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b2b76eb3f3c471c1f20bf1b948d202d') in 0.002778 seconds 
+  Import took 0.004692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001117 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Scripts/Hands/SkeletalFinger.cs
+  artifactKey: Guid(3f5fcbf058439488b9b1c389e2b23547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Scripts/Hands/SkeletalFinger.cs using Guid(3f5fcbf058439488b9b1c389e2b23547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b2b76eb3f3c471c1f20bf1b948d202d') in 0.002900 seconds 
+  Import took 0.004949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.155953 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/Hands/Models/Skeleton
+  artifactKey: Guid(22c14549f09603441bb22aec5d595f55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/Hands/Models/Skeleton using Guid(22c14549f09603441bb22aec5d595f55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8395d1774e19df83c7bcefd50902d2b') in 0.003312 seconds 
+  Import took 0.005970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.961391 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/Hands/Models/Skeleton/Textures
+  artifactKey: Guid(c7de5b900ae2e264e9659eba0f6ca9dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/Hands/Models/Skeleton/Textures using Guid(c7de5b900ae2e264e9659eba0f6ca9dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cebb5311a5785c567543a397c26badd0') in 0.003428 seconds 
+  Import took 0.005499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.914104 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor
+  artifactKey: Guid(383683b337ef95f40919ce4768b4c104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor using Guid(383683b337ef95f40919ce4768b4c104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6290197c265700fd37951048e8cdfac3') in 0.004367 seconds 
+  Import took 0.006459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.275837 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/AttachmentHandsEditor.cs
+  artifactKey: Guid(561e30e17ff37e44a8c42aa175223258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/AttachmentHandsEditor.cs using Guid(561e30e17ff37e44a8c42aa175223258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df1ee5d8f376a2003acd51a497512fd3') in 0.002936 seconds 
+  Import took 0.005087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003096 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/AttachmentHandsEditor.cs
+  artifactKey: Guid(561e30e17ff37e44a8c42aa175223258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/AttachmentHandsEditor.cs using Guid(561e30e17ff37e44a8c42aa175223258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df1ee5d8f376a2003acd51a497512fd3') in 0.002949 seconds 
+  Import took 0.005240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.348274 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/CommentEditor.cs
+  artifactKey: Guid(39c8666ec0ebe1d4c89b4b85bc7f07c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/CommentEditor.cs using Guid(39c8666ec0ebe1d4c89b4b85bc7f07c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d58b1060fb489ea635321bfb336ec6c') in 0.003098 seconds 
+  Import took 0.005161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001020 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/CommentEditor.cs
+  artifactKey: Guid(39c8666ec0ebe1d4c89b4b85bc7f07c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/CommentEditor.cs using Guid(39c8666ec0ebe1d4c89b4b85bc7f07c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d58b1060fb489ea635321bfb336ec6c') in 0.003037 seconds 
+  Import took 0.005372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.396390 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/CorePreferences.cs
+  artifactKey: Guid(6659559e2a159ac4cbc8a42ba449dcf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/CorePreferences.cs using Guid(6659559e2a159ac4cbc8a42ba449dcf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27d636f5edb4dfe9cddaabbb9ea009a7') in 0.003520 seconds 
+  Import took 0.005708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001150 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/CorePreferences.cs
+  artifactKey: Guid(6659559e2a159ac4cbc8a42ba449dcf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/CorePreferences.cs using Guid(6659559e2a159ac4cbc8a42ba449dcf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27d636f5edb4dfe9cddaabbb9ea009a7') in 0.002799 seconds 
+  Import took 0.005366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.401596 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/CustomEditorBase.cs
+  artifactKey: Guid(5153a3309ec1fdb4fb6d7ebecfc60279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/CustomEditorBase.cs using Guid(5153a3309ec1fdb4fb6d7ebecfc60279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '381a45bf5fc933271d222dbe14c16af0') in 0.002835 seconds 
+  Import took 0.004939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.381222 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/CustomPropertyDrawerBase.cs
+  artifactKey: Guid(bf0db7f46a29f4745bdcc7d116b80572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/CustomPropertyDrawerBase.cs using Guid(bf0db7f46a29f4745bdcc7d116b80572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7377e129a25bfc160d5bfbd490ec8f3') in 0.003618 seconds 
+  Import took 0.005768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.345441 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/LeapServiceProviderEditor.cs
+  artifactKey: Guid(820a690b04c5ed7449f6d0bd3a657f06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/LeapServiceProviderEditor.cs using Guid(820a690b04c5ed7449f6d0bd3a657f06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b940cb8931057d5c3a9746722e1e85c') in 0.003118 seconds 
+  Import took 0.005398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.553018 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/LeapRigUpgrader.cs
+  artifactKey: Guid(e589e87c909f89e4fbf909f18ea4508a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/LeapRigUpgrader.cs using Guid(e589e87c909f89e4fbf909f18ea4508a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fb5e4bfbbc5d5372dbf3ae5f94981a7') in 0.003151 seconds 
+  Import took 0.005033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.434691 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/LeapImageRetrieverEditor.cs
+  artifactKey: Guid(489ddbb3e49c3c34f8016d4ea0c4b5d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/LeapImageRetrieverEditor.cs using Guid(489ddbb3e49c3c34f8016d4ea0c4b5d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82492599656b51edc6ad2ef0b1c4a137') in 0.003567 seconds 
+  Import took 0.005697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000746 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/LeapImageRetrieverEditor.cs
+  artifactKey: Guid(489ddbb3e49c3c34f8016d4ea0c4b5d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/LeapImageRetrieverEditor.cs using Guid(489ddbb3e49c3c34f8016d4ea0c4b5d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82492599656b51edc6ad2ef0b1c4a137') in 0.002684 seconds 
+  Import took 0.004937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.660690 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/LeapEyeDislocatorEditor.cs
+  artifactKey: Guid(6c7d0002bfe507346abf0178c9cb5806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/LeapEyeDislocatorEditor.cs using Guid(6c7d0002bfe507346abf0178c9cb5806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fc4adbcd2a6e74160361a4e1c47685d') in 0.002965 seconds 
+  Import took 0.005010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000699 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/LeapEyeDislocatorEditor.cs
+  artifactKey: Guid(6c7d0002bfe507346abf0178c9cb5806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/LeapEyeDislocatorEditor.cs using Guid(6c7d0002bfe507346abf0178c9cb5806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fc4adbcd2a6e74160361a4e1c47685d') in 0.003085 seconds 
+  Import took 0.005390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.804161 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/Hotkeys.cs
+  artifactKey: Guid(71cb4baa9de327e42b919331f450f960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/Hotkeys.cs using Guid(71cb4baa9de327e42b919331f450f960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '493c00505eed8560e297ade5bd0fc3d0') in 0.003274 seconds 
+  Import took 0.005644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000963 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/Hotkeys.cs
+  artifactKey: Guid(71cb4baa9de327e42b919331f450f960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/Hotkeys.cs using Guid(71cb4baa9de327e42b919331f450f960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '493c00505eed8560e297ade5bd0fc3d0') in 0.003461 seconds 
+  Import took 0.005514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.244067 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/EnumEventTableEditor.cs
+  artifactKey: Guid(c5a7763c27247bc49a94e244df53bae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/EnumEventTableEditor.cs using Guid(c5a7763c27247bc49a94e244df53bae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '721b0853358689a1df204303689875e7') in 0.002808 seconds 
+  Import took 0.004925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001508 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/EnumEventTableEditor.cs
+  artifactKey: Guid(c5a7763c27247bc49a94e244df53bae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/EnumEventTableEditor.cs using Guid(c5a7763c27247bc49a94e244df53bae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '721b0853358689a1df204303689875e7') in 0.003618 seconds 
+  Import took 0.006153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.083367 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/EmptyFolderUtility.cs
+  artifactKey: Guid(86c4d5fe8c1e52f438fc8663e7d3b46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/EmptyFolderUtility.cs using Guid(86c4d5fe8c1e52f438fc8663e7d3b46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '007264a27c9506161b8995db7f2ae9c6') in 0.003521 seconds 
+  Import took 0.005565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000872 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/EmptyFolderUtility.cs
+  artifactKey: Guid(86c4d5fe8c1e52f438fc8663e7d3b46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/EmptyFolderUtility.cs using Guid(86c4d5fe8c1e52f438fc8663e7d3b46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '007264a27c9506161b8995db7f2ae9c6') in 0.002833 seconds 
+  Import took 0.004968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.323973 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/EditorUtils.cs
+  artifactKey: Guid(3c3a36dfa9b77464fb247cb5364971f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/EditorUtils.cs using Guid(3c3a36dfa9b77464fb247cb5364971f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f5f8c1945cdbfc6cd9329f516f4059e') in 0.003246 seconds 
+  Import took 0.005190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001443 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/EditorUtils.cs
+  artifactKey: Guid(3c3a36dfa9b77464fb247cb5364971f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/EditorUtils.cs using Guid(3c3a36dfa9b77464fb247cb5364971f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f5f8c1945cdbfc6cd9329f516f4059e') in 0.002825 seconds 
+  Import took 0.005227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.219758 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/LeapUnityWindow.cs
+  artifactKey: Guid(b4e9ff27d85473e49b8c2246a27a93d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/LeapUnityWindow.cs using Guid(b4e9ff27d85473e49b8c2246a27a93d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cb0a63e8d1a419519d0d5cf8ed4f442') in 0.003318 seconds 
+  Import took 0.005459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001282 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/LeapUnityWindow.cs
+  artifactKey: Guid(b4e9ff27d85473e49b8c2246a27a93d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/LeapUnityWindow.cs using Guid(b4e9ff27d85473e49b8c2246a27a93d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cb0a63e8d1a419519d0d5cf8ed4f442') in 0.003347 seconds 
+  Import took 0.005449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.963649 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/LeapXRServiceProviderEditor.cs
+  artifactKey: Guid(e37794aab3aca9a4e98d22ba8e959b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/LeapXRServiceProviderEditor.cs using Guid(e37794aab3aca9a4e98d22ba8e959b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '718dc595ec23f91098921116bd83eb0a') in 0.003789 seconds 
+  Import took 0.006045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001776 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/LeapXRServiceProviderEditor.cs
+  artifactKey: Guid(e37794aab3aca9a4e98d22ba8e959b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/LeapXRServiceProviderEditor.cs using Guid(e37794aab3aca9a4e98d22ba8e959b9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '718dc595ec23f91098921116bd83eb0a') in 0.002976 seconds 
+  Import took 0.005545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.218432 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/PostProcessProviderEditor.cs
+  artifactKey: Guid(c7243705ebdb03446bfd0e3c06752c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/PostProcessProviderEditor.cs using Guid(c7243705ebdb03446bfd0e3c06752c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ed3cdc1c1d10bba4d79d8bb44de0fb0') in 0.003205 seconds 
+  Import took 0.005227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000568 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/PostProcessProviderEditor.cs
+  artifactKey: Guid(c7243705ebdb03446bfd0e3c06752c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/PostProcessProviderEditor.cs using Guid(c7243705ebdb03446bfd0e3c06752c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ed3cdc1c1d10bba4d79d8bb44de0fb0') in 0.003099 seconds 
+  Import took 0.005645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.580550 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/SerializableDictionaryEditor.cs
+  artifactKey: Guid(00286de223036e24ca172c3f2641f53c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/SerializableDictionaryEditor.cs using Guid(00286de223036e24ca172c3f2641f53c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c02c9e95f0e02a7c17a085ba713e1eb') in 0.003535 seconds 
+  Import took 0.005584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.602202 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/SerializableHashSetEditor.cs
+  artifactKey: Guid(c5cd9a9d21ae2924b80411cc30258fe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/SerializableHashSetEditor.cs using Guid(c5cd9a9d21ae2924b80411cc30258fe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c18efb449b56f154bf4a2ec0df2a772') in 0.002882 seconds 
+  Import took 0.004862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.477807 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/SingleLayerEditor.cs
+  artifactKey: Guid(bb6c580f060b3e040912f82d0120b4fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/SingleLayerEditor.cs using Guid(bb6c580f060b3e040912f82d0120b4fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3b0245571d06e14ad5acc4c6bc86277') in 0.003025 seconds 
+  Import took 0.005061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001076 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/SingleLayerEditor.cs
+  artifactKey: Guid(bb6c580f060b3e040912f82d0120b4fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/SingleLayerEditor.cs using Guid(bb6c580f060b3e040912f82d0120b4fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3b0245571d06e14ad5acc4c6bc86277') in 0.003040 seconds 
+  Import took 0.005529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.960782 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/StreamingAssetPropertyDrawer.cs
+  artifactKey: Guid(8b0d052d45ca21f439a8610676ee957b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/StreamingAssetPropertyDrawer.cs using Guid(8b0d052d45ca21f439a8610676ee957b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53ad0a855f0389ac653004a51e12836c') in 0.003280 seconds 
+  Import took 0.005322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/StreamingAssetPropertyDrawer.cs
+  artifactKey: Guid(8b0d052d45ca21f439a8610676ee957b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/StreamingAssetPropertyDrawer.cs using Guid(8b0d052d45ca21f439a8610676ee957b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53ad0a855f0389ac653004a51e12836c') in 0.003507 seconds 
+  Import took 0.005736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.797395 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/StreamingFolderPropertyDrawer.cs
+  artifactKey: Guid(ec61e8578a0d3574496a83ed841f3023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/StreamingFolderPropertyDrawer.cs using Guid(ec61e8578a0d3574496a83ed841f3023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2c57b0f4c1319a55470b890cc279e51') in 0.003415 seconds 
+  Import took 0.005527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/StreamingFolderPropertyDrawer.cs
+  artifactKey: Guid(ec61e8578a0d3574496a83ed841f3023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/StreamingFolderPropertyDrawer.cs using Guid(ec61e8578a0d3574496a83ed841f3023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2c57b0f4c1319a55470b890cc279e51') in 0.003099 seconds 
+  Import took 0.005403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.107788 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/TransformTweenBehaviourEditor.cs
+  artifactKey: Guid(5d3bc94e77ed3074c8ada117b3a70930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/TransformTweenBehaviourEditor.cs using Guid(5d3bc94e77ed3074c8ada117b3a70930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7e5cd54447f16b479f15e5d18b2d593') in 0.003285 seconds 
+  Import took 0.005494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000476 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/TransformTweenBehaviourEditor.cs
+  artifactKey: Guid(5d3bc94e77ed3074c8ada117b3a70930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/TransformTweenBehaviourEditor.cs using Guid(5d3bc94e77ed3074c8ada117b3a70930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7e5cd54447f16b479f15e5d18b2d593') in 0.003311 seconds 
+  Import took 0.005321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.636864 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/XRHeightOffsetEditor.cs
+  artifactKey: Guid(ba9311a0cf3038e4da3a365efa5fc727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/XRHeightOffsetEditor.cs using Guid(ba9311a0cf3038e4da3a365efa5fc727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3545177bf534d6ea5f31dea109fa1aed') in 0.003383 seconds 
+  Import took 0.005557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000592 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Editor/XRHeightOffsetEditor.cs
+  artifactKey: Guid(ba9311a0cf3038e4da3a365efa5fc727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Editor/XRHeightOffsetEditor.cs using Guid(ba9311a0cf3038e4da3a365efa5fc727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3545177bf534d6ea5f31dea109fa1aed') in 0.002774 seconds 
+  Import took 0.005142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.083001 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Plugins
+  artifactKey: Guid(e01515c17ebbfbe4690f332f22a2d827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Plugins using Guid(e01515c17ebbfbe4690f332f22a2d827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9c477e2815b9cf286182871036566c6') in 0.003129 seconds 
+  Import took 0.005476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.840044 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Plugins/GrabClassifierHeuristics.cs
+  artifactKey: Guid(6ea1e32c0e6902f4c958481e39562bd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Plugins/GrabClassifierHeuristics.cs using Guid(6ea1e32c0e6902f4c958481e39562bd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a8ae52b9fdf65c1564f92bc874f58fb') in 0.002759 seconds 
+  Import took 0.004694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000650 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Plugins/GrabClassifierHeuristics.cs
+  artifactKey: Guid(6ea1e32c0e6902f4c958481e39562bd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Plugins/GrabClassifierHeuristics.cs using Guid(6ea1e32c0e6902f4c958481e39562bd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a8ae52b9fdf65c1564f92bc874f58fb') in 0.002653 seconds 
+  Import took 0.004580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.562129 seconds.
+  path: Assets/Plugins/LeapMotion/Modules/InteractionEngine/Plugins/ColliderUtil.cs
+  artifactKey: Guid(adf2601db3bb6404193afde3dc7374ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Modules/InteractionEngine/Plugins/ColliderUtil.cs using Guid(adf2601db3bb6404193afde3dc7374ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '782a928166be207c919463c97db21262') in 0.002833 seconds 
+  Import took 0.004993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 527.529151 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Scripts
+  artifactKey: Guid(2c5856c697156454b837779a40c549da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Scripts using Guid(2c5856c697156454b837779a40c549da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '156e84907c36678c804f1f14ca76709e') in 0.003374 seconds 
+  Import took 0.005391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.063953 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Scripts/LeapMotion.asmdef
+  artifactKey: Guid(bfac32c1d0231784bb24b8c23d8d1298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Scripts/LeapMotion.asmdef using Guid(bfac32c1d0231784bb24b8c23d8d1298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb0d990b79067af3d3451a2613b3e721') in 0.004356 seconds 
+  Import took 0.006331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.877529 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Scripts/NewBehaviourScript.cs
+  artifactKey: Guid(8ede2a7ca1835bf4cb143bc6e062ae2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Scripts/NewBehaviourScript.cs using Guid(8ede2a7ca1835bf4cb143bc6e062ae2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00b2ca8cbcb480795505df9cf2338231') in 0.003533 seconds 
+  Import took 0.006257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001729 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Scripts/NewBehaviourScript.cs
+  artifactKey: Guid(8ede2a7ca1835bf4cb143bc6e062ae2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Scripts/NewBehaviourScript.cs using Guid(8ede2a7ca1835bf4cb143bc6e062ae2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00b2ca8cbcb480795505df9cf2338231') in 0.003235 seconds 
+  Import took 0.005802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.607133 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Scripts/NewBehaviourScript.cs
+  artifactKey: Guid(8ede2a7ca1835bf4cb143bc6e062ae2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Scripts/NewBehaviourScript.cs using Guid(8ede2a7ca1835bf4cb143bc6e062ae2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '007a2c1d41fcd1ea92f58c330a99b0fd') in 0.003298 seconds 
+  Import took 0.005516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 113.814311 seconds.
+  path: Assets/Plugins/LeapMotion/Core/Scripts/NewBehaviourScript.cs
+  artifactKey: Guid(8ede2a7ca1835bf4cb143bc6e062ae2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/LeapMotion/Core/Scripts/NewBehaviourScript.cs using Guid(8ede2a7ca1835bf4cb143bc6e062ae2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6c44e9998ada4944824b0748a47bc72') in 0.013725 seconds 
+  Import took 0.019123 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
